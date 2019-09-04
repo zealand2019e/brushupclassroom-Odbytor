@@ -6,11 +6,16 @@ using System.Threading.Tasks;
 
 namespace ClassRoom
 {
-    class Program
+    class ClassRoom
     {
-        static void Main(string[] args)
+        string ClassName;
+        List<> Classlist;
+        DateTime SemesterStart;
+
+
+        public ClassRoom()
         {
-            
+
         }
     }
 }
