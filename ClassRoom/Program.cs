@@ -15,6 +15,8 @@ namespace ClassRoom
             classR.Classlist.Add("Bartosz");
             classR.ClassName = "3Q";
             classR.SemesterStart = Convert.ToDateTime("26-8-2019");
+            Console.WriteLine(classR);
+            Console.ReadKey();
         }
     }
 }
