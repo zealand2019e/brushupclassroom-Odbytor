@@ -8,9 +8,9 @@ namespace ClassRoom
 {
     class ClassRoom
     {
-        string ClassName;
-        List<> Classlist;
-        DateTime SemesterStart;
+       public string ClassName;
+      public  List<string> Classlist;
+       public DateTime SemesterStart;
 
 
         public ClassRoom()
